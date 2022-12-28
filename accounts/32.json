@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "moviesgate-2",
+  "private_key_id": "95203202de8b7cc59207a2fdab04565f2f90a03c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCUBwopZBZhYY6q\nI/TsvnPx9U55vLmkBr93d82UtKohfnCT+hnyMf8RGxdIOuUblyesTrYiwUazjQIC\nBUp6CqtP59mPwDi2rFbC2D9trfxmSOYIsYOrbjUeFfQ12VfmWVf73FSmvDaZEb2q\nQsFEBFQ6B5PqZ+JpAMzq6+nyW31m67hxW/s882wSsnqRtXMyiecGKOWJgYCZAICP\nTTcrUJ9yOzp5ExxymCa6Qfv5xgeWf2CI22hLInTFbIo/ioMpX6clcORXU+k8KBId\nCTgUPpOzr6T+FMG3d+zodY4t85ukdXHGZmHxJnb0eELF8mhKkDf4b8WDRNHEUJhn\n9a2dz4NXAgMBAAECggEARd/s1A0C44UBqx6+BuMAKD77hEup9duZlfNff8qoZJci\n3Tc5+DHRjWmUW+wxKgz4FUYyg8VocmklgX6t4V4X7+gpssmx+8juS5t4lXWDp2TR\n8ViaJtonCMSkOqcV7w5Nkf43l11RCIBvX2eTg1/nwlzBXe0b2yUdlec2z8iQMXxr\n+NmPHJt1FA2npHlt73gN7jiEhHD+Z+fiyaSr35AGfn4Qarnbdp9KI1sNHVTT1lJ/\nVafR7NQwfMtE0PW4vEKO1OhGDxrVsrEOv36hDckGReWVUOkPC5oZeUyFZRF1Ugih\n2PgEnuxyIGipwPGpPcOCMmmOdvGxAMKaHBeRr9otAQKBgQDJYN3kK1dN9dzY/OGr\nI7XSlk9b9vmh4rz7+Hm3gVACcEA4qslXEUFvzJkJaTvlgSVN0WRsBc4ZGsQT//tl\n/A0ds/IR+NGy2FQcfY8M8kEvQ8yIj38WOhfqW/wXkl42XC2MmPFbJJmE1Y0aemxN\nU0ofZ6iemHFTxQUj5bIYG8tJpwKBgQC8LaQ46atUd8W2WdVIvt/AtOkSb3b3EQoq\nWCNbnZcrv/CwTjx6xHw+jX4tewIUfHDdnz39W5a2wFdJMkw8mzBq7dQhayVK3djY\nsD9xiMh2yKGLmKLHMIGILklpfJxkqFsPu0+TniJ8TwYVWSIOqEGpKohA7iKJbgT+\nSMmX9kzO0QKBgDbKQzT8UdGlTkQ/cYrluWele8wSw1K3ZSHNNhimd0VikyaX2RX2\nXO51JUI5PpGv9J1alk8JuUx9StICOL1DubHWLsuS/kMBtsjVpKEqHHAmqzSQjkxW\n3ADorAshyL5TkBUL28cnixloHO8SVfsn6SfoRSl5YoQfO8nLigwjK8lLAoGAUvSf\n78L7F4qRa1jg0Gfsxcw67ziaLkKhw5cFR08KpGvCFEb5HHnf98dyd2RBv3w4WUrp\nDfbBUyEpmYgF2bXkO09K88yDLSTtgmD4JvnQvaSmqp6IK91zTPByxoD7hNg/BIlj\nhETzGO/RU7nubJ26DHRGirEwInuQ0fSOgmI+6/ECgYBuGa4w7wrYl0iUBha50NdL\nNTiVE0psMDt6RLyYUo3HnaMeju7M9YdId+PuBkHreoE+Y8t7WKKJYssrK9jy3Pac\n6DPwEe9hlrpCcxDCxqTw3Dzi3EcVbLEu3tyzzBxa9puh/rbYSIt0QXRZop1fpfP1\nrDNAqydSGYt9yJF1JJaeIQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-s2pub6cjhqqoqfiom0egvr8n7z@moviesgate-2.iam.gserviceaccount.com",
+  "client_id": "100029508524505538260",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-s2pub6cjhqqoqfiom0egvr8n7z%40moviesgate-2.iam.gserviceaccount.com"
+}
